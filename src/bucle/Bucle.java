@@ -20,7 +20,9 @@ public class Bucle {
     int h = 3;
     int x = 0;
     int p = 0;
+    
     p = 2*(b + h);
+    
     while( x < 20 ) {
         x += 2;
         System.out.println( 2*x+5 );
